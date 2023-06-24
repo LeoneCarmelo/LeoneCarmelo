@@ -1,6 +1,6 @@
 <p align="center">Hi there 👋</p> 
 
-<h1 align="center">I'm Carmelo Leone, Full Stack Web Developer</h1>
+<h1 align="center">I'm Carmelo Leone, Jr Full Stack Web Developer</h1>
 <p align="center">I learned as a Boolean's student all the technologies to develop front-end, back-end and full-stack web/app</p>
 <p></p>
 <div align="center">
